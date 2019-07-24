@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-waitingfor",
+  "name": "bootstrap-4-waitingfor",
   "version": "1.2.7",
-  "homepage": "https://github.com/ehpc/bootstrap-waitingfor",
+  "homepage": "https://github.com/lukas-mertens/bootstrap-waitingfor",
   "authors": [
     "Eugene Maslovich <ehpc@ehpc.io>"
   ],

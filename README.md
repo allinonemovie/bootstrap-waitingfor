@@ -17,15 +17,11 @@ See this plugin in action:rocket:: http://bootsnipp.com/snippets/featured/quotwa
 
 ### With bower
 
-You can install this module with bower `bower install bootstrap-waitingfor` and include the files from `build` directory.
+You can install this module with bower `bower install bootstrap-4-waitingfor` and include the files from `build` directory.
 
 ### With npm
 
-You can install this module with npm `npm install --save bootstrap-waitingfor` and include it as shown:
-
-```js
-const waitingDialog = require('bootstrap-waitingfor');
-```
+You can install this module with npm `npm install --save bootstrap-4-waitingfor`.
 
 ## Using
 
