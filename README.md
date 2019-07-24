@@ -1,3 +1,7 @@
+# Info about Fork 
+This is a fork of [ehpc/bootstrap-waitingfor](https://github.com/ehpc/bootstrap-waitingfor) with bootstrap 4 support.
+
+
 # bootstrap-waitingfor
 
 "Waiting for..." modal dialog with progress bar for Bootstrap.

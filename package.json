@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-waitingfor",
+  "name": "bootstrap-4-waitingfor",
   "version": "1.2.7",
   "description": "Waiting for dialog with progress bar for Bootstrap",
   "main": "build/bootstrap-waitingfor.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ehpc/bootstrap-waitingfor.git"
+    "url": "git+https://github.com/lukas-mertens/bootstrap-waitingfor.git"
   },
   "keywords": [
     "waiting",
@@ -30,7 +30,7 @@
   "author": "Eugene Maslovich <ehpc@ehpc.io> (http://ehpc.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ehpc/bootstrap-waitingfor/issues"
+    "url": "https://github.com/lukas-mertens/bootstrap-waitingfor/issues"
   },
-  "homepage": "https://github.com/ehpc/bootstrap-waitingfor#readme"
+  "homepage": "https://github.com/lukas-mertens/bootstrap-waitingfor#readme"
 }
